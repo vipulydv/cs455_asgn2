@@ -1,0 +1,15 @@
+{
+  "name": "VM3",
+  "version": "1.0.0",
+  "description": "ping-echo",
+  "author": "Vipul Yadav <vipulydv@iitk.ac.in>",
+  "main": "app.js",
+  "keywords": [
+    "nodejs",
+    "bootstrap",
+    "express"
+  ],
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}

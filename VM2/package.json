@@ -1,0 +1,16 @@
+{
+  "name": "VM2",
+  "version": "1.0.0",
+  "description": "Generating numbers between 50 and 80",
+  "author": "Vipul Yadav <vipulydv@iitk.ac.in>",
+  "license": "IITK",
+  "main": "app.js",
+  "keywords": [
+    "nodejs",
+    "bootstrap",
+    "express"
+  ],
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
